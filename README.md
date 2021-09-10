@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# Global-Weather-Analysis-Project
 
 ## Overview of Project
 From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map. Inluding creating a dataframe for weather.
